@@ -8,4 +8,4 @@ if(amount < 10){
 
     console.log("Large number");
 
-}
+} 

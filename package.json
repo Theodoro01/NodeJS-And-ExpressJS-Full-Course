@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-and-expressjs-full-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "01-intro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Theodoro01/NodeJS-And-ExpressJS-Full-Course.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Theodoro01/NodeJS-And-ExpressJS-Full-Course/issues"
+  },
+  "homepage": "https://github.com/Theodoro01/NodeJS-And-ExpressJS-Full-Course#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
