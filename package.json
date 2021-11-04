@@ -19,7 +19,8 @@
   "homepage": "https://github.com/Theodoro01/NodeJS-And-ExpressJS-Full-Course#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "morgan": "^1.10.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.13"
